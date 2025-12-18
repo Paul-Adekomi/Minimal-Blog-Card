@@ -49,5 +49,3 @@ If you made other edits (performance, accessibility, new assets, deploy steps), 
 - Coded by: Paul Adekomi
 
 ---
-
-If this looks good I can keep the file as-is or add a screenshot and deploy instructions (GitHub Pages / Vercel). Reply "add screenshot" or "deploy" to continue.
